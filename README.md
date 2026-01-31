@@ -3,6 +3,7 @@
 A co-located multiplayer mixed reality game for Meta Quest headsets that explores physical cooperative gameplay in shared spaces.
 
 **Research Paper:** "MoveTogether: Exploring Physical Co-op Gameplay in Mixed-Reality"  
+Pin-Chun Lu, Wen-Fan Wang, Che-Wei Wang, Ting-Ying Lee, Tsai-Hsuan Lin, Duo-Jie Hsiao, Che-Han Hsieh, Yu-Ting Tseng, Neng-Hao Yu, Mike Y. Chen.
 *Accepted for CHI'26 (forthcoming)*
 
 ## Overview
